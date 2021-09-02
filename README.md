@@ -1,2 +1,2 @@
 # StringsManipulation
-Several methods created for string manipulation.  
+Simple console app with several methods created for string manipulation.  
